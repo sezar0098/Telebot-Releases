@@ -1,1 +1,10 @@
-
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "releaseTitle": "به‌روزرسانی بزرگ TeleBot نسخه ۱.۱",
+  "releaseNotes": "• فعال‌سازی رسمی سیستم آپدیت خودکار درون‌برنامه‌ای بدون نیاز به وبسایت\n• رفع کامل اخطار سپر ایمنی گوگل پلی (Google Play Protect)\n• ایجاد زیرساخت امضای معتبر Release در خروجی‌های گیت‌هاب\n• افزایش امنیت شبکه با غیرفعال‌سازی ترافیک Cleartext و افزودن Network Security Config\n• بهبود پایداری اتصال و مدیریت پیشرفته ربات‌ها",
+  "downloadUrl": "https://github.com/sezar0098/Telebot-Releases/releases/download/v1.1.0/TeleBot-release.apk",
+  "fileSizeBytes": 18555255,
+  "isCritical": false,
+  "releaseDate": "2026-11-02"
+}
